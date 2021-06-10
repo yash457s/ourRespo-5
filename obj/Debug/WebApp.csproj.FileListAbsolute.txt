@@ -77,3 +77,7 @@ C:\Users\HP\Desktop\college documents\Dot net training\10-6-21 exer 3\WebApp\Web
 C:\Users\HP\Desktop\college documents\Dot net training\10-6-21 exer 3\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
 C:\Users\HP\Desktop\college documents\Dot net training\10-6-21 exer 3\WebApp\WebApp\obj\Debug\WebApp.dll
 C:\Users\HP\Desktop\college documents\Dot net training\10-6-21 exer 3\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\HP\Desktop\college documents\Dot net training\10-6-21 exer 3\WebApp\WebApp\bin\EntityFramework.dll
+C:\Users\HP\Desktop\college documents\Dot net training\10-6-21 exer 3\WebApp\WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\college documents\Dot net training\10-6-21 exer 3\WebApp\WebApp\bin\EntityFramework.xml
+C:\Users\HP\Desktop\college documents\Dot net training\10-6-21 exer 3\WebApp\WebApp\bin\EntityFramework.SqlServer.xml
